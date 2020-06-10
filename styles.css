@@ -1,0 +1,41 @@
+/* add your CSS here */
+.card{
+    border:1px solid purple;
+    width:350px;
+    height:780px;
+    text-align: left;
+    margin-left: 40%;
+  	margin-right: 40%;
+    display:flex;
+    flex-wrap:wrap;
+  	box-shadow: 2px 5px #C0C0C0;
+    background-color:#F0FFFF;
+  }
+h3{
+    float:left;
+    padding:0.3em;
+  }
+.center{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      }
+div{
+    	padding:1%;
+  }
+.about{
+     font-style:italic;
+  }
+.box1{
+      border:1px solid black;
+      margin:1em;
+      padding:0.5em;
+      width:300px;
+      height:380px;
+   }
+ul li{
+      list-style:none;
+    }
+li span{
+          font-weight:bold;
+      }
